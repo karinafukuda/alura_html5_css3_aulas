@@ -1,0 +1,113 @@
+header {
+		background: url("./images/bg.jpg");
+}
+
+.titulo-principal {
+	text-align: center;
+	font-weight: bold;
+	color:#FFFFFF;
+	font-family: arial;
+	text-transform: uppercase;
+	font-size: 50px;
+	padding: 25px 0;	
+}
+
+.principal{
+	background: #af997b;
+	padding: 40px 15px;
+}
+
+#banner {
+	width:100%;
+	display: flex;
+}
+
+.titulo-centralizado {
+	text-align: center;
+	font-size: 32px;
+	font-weight: bold;
+	font-family: arial;
+	padding: 2px 0;
+	color: #FFFFFF;
+	text-transform: uppercase;
+	margin-bottom: 20px;
+}
+
+p {
+	text-align: center;
+	font-family: arial;
+	margin-top: 8px;
+}
+
+#missao {
+	font-size: 18px;
+
+}
+
+em strong {
+	color: #302105;
+}
+
+nav a {
+		text-transform: uppercase;
+		color: #000000;
+		font-weight: bold;
+		font-size: 15px;
+		text-decoration: none;
+		padding-top: 6px;
+}
+
+.lista-titulo {
+	text-align: center;
+	font-size: 32px;
+	font-weight: bold;
+	font-family: arial;
+	padding: 2px 0;
+	color: #FFFFFF;
+	text-transform: uppercase;
+	margin-top:20px;
+}
+
+.beneficios {
+	background: #000000;
+	padding: 3px;	
+}
+
+
+.itens {
+	list-style-type: none;
+	font-style: italic;
+	font-family: arial;
+	color: #CCCCCC;
+	margin-top: 20px;
+	text-align: right;
+	padding: 8px 12px 12px 8px;
+	font-size: 28px;
+}
+
+
+ul {
+	display: inline-block;
+	vertical-align: top;
+	width: 25%;
+	margin-right: 15%;
+	margin-top: 5%;		
+}
+
+.imagembeneficios {
+	width: 40%;
+	margin: 20px 38px;
+	border-radius: 10px;
+}
+
+footer {
+	text-align: center;
+	background: url("./images/bg.jpg");
+	padding: 20px 0;
+}
+
+.copyright {
+	color: #FFFFFF;
+	font-size: 13px;
+	margin: 40px 0;
+}
