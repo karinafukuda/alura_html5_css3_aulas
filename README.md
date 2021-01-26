@@ -24,13 +24,4 @@ A maioria das imagens foram cedidas no próprio curso, e outras modifiquei.<br>
 
 &#128279; Aqui segue o link do curso: <a> https://cursos.alura.com.br/course/html5-css3-primeiros-passos</a>
 
-<p>Uma prévia de como ficou a página</p>
-<br>
-<img src="pagina-home">
-<br>
-<img src="pagina-produtos">
-<br>
-<img src="pagina-contato">
-<br>
-
 <h3>FIM</h3>
