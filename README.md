@@ -19,6 +19,7 @@ A maioria das imagens foram cedidas no próprio curso, e outras modifiquei.<br>
 
   <ul>
   <li>Para funcionar crie uma pasta com o nome 'images' e insira todas as imagens dentro dela.</li>
+  <li>As imagens com o título página-home, página-contato ou página-produtos são as prévias de como ficou o site.
   </ul>
 
 
