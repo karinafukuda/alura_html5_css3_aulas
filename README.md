@@ -1,7 +1,7 @@
 <h1>Exercício Alura sobre HTML5 e CSS3 - Aulas 1,2 e 3</h1>
 
 &#10141; A proposta foi de criar uma página da 'BARBEARIA ALURA' com Home, Produtos e Contatos.<br>
-Eu quis mudar algumas coisas para colocar o que estava aprendendo a teste e para melhor na fixação.<br>
+Eu quis mudar algumas coisas para colocar o que estava aprendendo a teste e para melhor fixação.<br>
 A maioria das imagens foram cedidas no próprio curso, e outras modifiquei.<br>
 
 
